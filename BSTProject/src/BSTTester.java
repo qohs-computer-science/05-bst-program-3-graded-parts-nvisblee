@@ -42,5 +42,5 @@ public class BSTTester {
 
         System.out.print("post order:");
         tree.printPostOrder();
-    }
-}
+    } // end main
+} // end class
